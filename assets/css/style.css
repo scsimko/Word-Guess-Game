@@ -1,0 +1,53 @@
+html { 
+  background: url("http://www.aljanh.net/data/archive/img/500356901.jpeg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+  font-size:100px;
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+}
+
+p{
+  font-size:50px;
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+}
+
+h2{
+  font-size:50px;
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.underScore{  
+  border: 3px solid black;
+  text-align: center;
+  font-size: 50px;
+  margin: 0 auto;
+  height: 150px;
+  width: 80%;
+}
+.rightGuess{
+  border: 3px solid black;
+  text-align: center;
+  font-size: 50px;
+  margin: 0 auto;
+  height: 150px;
+  width: 80%;
+}
+.wrongGuess{
+  border: 3px solid black;
+  text-align: center;
+  font-size: 50px;
+  margin: 0 auto;
+  height: 150px;
+  width: 80%;
+}
